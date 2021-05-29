@@ -10,8 +10,8 @@ The repo contains:
 
 The 4 tasks can be found in the following:
 
-* Task 1: Task one is answered in the notebook
-* Task 2: answered in the notebook and the tableau file
+* Task 1: Answered in the notebook and the tableau file
+* Task 2: Answered in the notebook 
 * Task 3: Entirely on the pdf
 * Task 4: On the notebook
 
